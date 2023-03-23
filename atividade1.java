@@ -1,4 +1,4 @@
-public class app{
+public class atividade1{
     public static void main (String[ ] args) throws Exception {
    
     double [ ] array = { 32, 10, 50, 2, 20, 15, 12, 28, 15, 45};
