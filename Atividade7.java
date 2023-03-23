@@ -1,4 +1,4 @@
-public class Main {
+public class Atividade7 {
     public static void main(String[] args) {
         int[][] A = new int[3][3]; // Cria uma matriz de ordem 3x3
 
