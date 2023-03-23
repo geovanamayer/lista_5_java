@@ -1,4 +1,4 @@
-public class SomaVarargs {
+public class Atividade6 {
     public static int soma(int... numeros) {
         int resultado = 0;
         for (int numero : numeros) {
